@@ -5,7 +5,7 @@ A store sells books. The original information of books (book code, book name, un
 ## Function
 - Display sales information through a textArea in the main window.
 <p align="center">
-<img src="./imgs/mainWindow.png">
+<img src="./imgs/mainWindow.png" width="200">
 </p>
 - Enter and process each sales situation in the main window.
 <p align="center">

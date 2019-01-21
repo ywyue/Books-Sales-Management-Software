@@ -5,22 +5,22 @@ A store sells books. The original information of books (book code, book name, un
 ## Function
 - Display sales information through a textArea in the main window.
 <p align="center">
-<img src="./imgs/mainWindow.png" width="200">
+<img src="./imgs/mainWindow.png" width="500">
 </p>
 - Enter and process each sales situation in the main window.
 <p align="center">
-<img src="./imgs/enterSales.png">
+<img src="./imgs/enterSales.png" width="500">
 </p>
 - Open a frame that displays the information of book stock through a button.
 <p align="center">
-<img src="./imgs/bookStock.png">
+<img src="./imgs/bookStock.png" width="500">
 </p>
 - Open a frame that displays the sales statistics by through a button.
 <p align="center">
-<img src="./imgs/salesStatistics.png">
+<img src="./imgs/salesStatistics.png" width="500">
 </p>
 - Write sales information to text file and exit the system.
 <p align="center">
-<img src="./imgs/SalesTxt.png">
+<img src="./imgs/SalesTxt.png" width="500">
 </p>
 

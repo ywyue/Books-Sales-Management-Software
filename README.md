@@ -28,4 +28,6 @@ A store sells books. The original information of books (book code, book name, un
 <p align="center">
 <img src="./imgs/SalesTxt.png" width="500">
 </p>
+- A.
+- B.
 

@@ -10,7 +10,7 @@ A store sells books. The original information of books (book code, book name, un
 <img src="./imgs/mainWindow.png" width="500">
 </p>
 
-### Enter and process each sales situation in the main window.
+* Enter and process each sales situation in the main window.
 </br>
 <p align="center">
 <img src="./imgs/enterSales.png" width="500">

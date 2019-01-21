@@ -11,24 +11,23 @@ A store sells books. The original information of books (book code, book name, un
 </p>
 
 * Enter and process each sales situation in the main window.
-</br>
 <p align="center">
 <img src="./imgs/enterSales.png" width="500">
 </p>
 
-### Open a frame that displays the information of book stock through a button.
+* Open a frame that displays the information of book stock through a button.
 </br>
 <p align="center">
 <img src="./imgs/bookStock.png" width="500">
 </p>
 
-### Open a frame that displays the sales statistics by through a button.
+* Open a frame that displays the sales statistics by through a button.
 </br>
 <p align="center">
 <img src="./imgs/salesStatistics.png" width="500">
 </p>
 
-### Write sales information to text file and exit the system.
+* Write sales information to text file and exit the system.
 </br>
 <p align="center">
 <img src="./imgs/SalesTxt.png" width="500">
